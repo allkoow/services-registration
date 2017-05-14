@@ -1,0 +1,11 @@
+Projekt zak³ada budowê serwisu pozwalaj¹cego na rejestrowanie wizyt u fryzjera, masa¿ysty itp. za poœrednictwem Internetu. 
+Podstawowe za³o¿enia: 
+- wykorzystanie bazy danych, 
+- rejestrowanie i logowanie do serwisu,
+- dwa rodzaje dostêpu: 'klient' i 'w³aœciciel', 
+- funkcje 'w³aœciciela': 
+	- zarz¹dzanie us³ugami (dodawanie, edycja, usuwanie), 
+	- zarz¹dzanie pracownikami (dodawanie, edycja, usuwanie informacji o pracowniku), 
+	- zarz¹dzanie wizytami (potwierdzanie, odwo³ywanie), 
+- funkcje 'klienta': 
+	- rezerwowanie i odwo³ywanie wizyt.
