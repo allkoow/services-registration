@@ -1,11 +1,12 @@
-Projekt zak≥ada budowÍ serwisu pozwalajπcego na rejestrowanie wizyt u fryzjera, masaøysty itp. za poúrednictwem Internetu. 
-Podstawowe za≥oøenia: 
+Projekt zak≈Çada budowƒô serwisu pozwalajƒÖcego na rejestrowanie wizyt u fryzjera, masa≈ºysty itp. za po≈õrednictwem Internetu. 
+Podstawowe za≈Ço≈ºenia: 
+- wykorzystanie ASP.NET,
 - wykorzystanie bazy danych, 
 - rejestrowanie i logowanie do serwisu,
-- dwa rodzaje dostÍpu: 'klient' i 'w≥aúciciel', 
-- funkcje 'w≥aúciciela': 
-	- zarzπdzanie us≥ugami (dodawanie, edycja, usuwanie), 
-	- zarzπdzanie pracownikami (dodawanie, edycja, usuwanie informacji o pracowniku), 
-	- zarzπdzanie wizytami (potwierdzanie, odwo≥ywanie), 
+- dwa rodzaje dostƒôpu: 'klient' i 'w≈Ça≈õciciel', 
+- funkcje 'w≈Ça≈õciciela': 
+	- zarzƒÖdzanie us≈Çugami (dodawanie, edycja, usuwanie), 
+	- zarzƒÖdzanie pracownikami (dodawanie, edycja, usuwanie informacji o pracowniku), 
+	- zarzƒÖdzanie wizytami (potwierdzanie, odwo≈Çywanie), 
 - funkcje 'klienta': 
-	- rezerwowanie i odwo≥ywanie wizyt.
+	- rezerwowanie i odwo≈Çywanie wizyt.
